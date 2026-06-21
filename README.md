@@ -1,13 +1,13 @@
 # Danilo Silva
 
-**`Estudante de Ciências da Computação na UFFS campus Chapecó`**
+**`Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) - Campus Chapecó`**
 
-<p align="center">
-    <a href="danilosiqsil@gmail.com">
+<p align="left">
+    <a href="mailto:seuemail@gmail.com">
         <img 
             alt="Email"
-            title="Email para contato"
-            src="https://custom-icon-badges.demolab.com/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"
+            title="Entre em contato por email"
+            src="https://img.shields.io/badge/Email-Contato-black?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>

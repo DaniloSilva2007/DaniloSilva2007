@@ -3,7 +3,7 @@
 **`Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) - Campus Chapecó`**
 
 <p align="left">
-    <a href="mailto:seuemail@gmail.com">
+    <a href="mailto:danilosiqsil@gmail.com">
         <img 
             alt="Email"
             title="Entre em contato por email"

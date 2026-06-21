@@ -3,11 +3,11 @@
 **`Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) - Campus Chapecó`**
 
 <p align="left">
-    <a href="mailto:danilosiqsil@gmail.com">
+    <a href="https://www.instagram.com/burnerferradoqueimado/">
         <img 
-            alt="Email"
-            title="Entre em contato por email"
-            src="https://img.shields.io/badge/Email-Contato-black?style=for-the-badge&logo=gmail&logoColor=white"
+            alt="Instagram"
+            title="Instagram para contato"
+            src="https://img.shields.io/badge/Instagram-Contato-black?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>

@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação na UFFS campus Chapecó`**
 
-<p align="left">
+<p align="center">
     <a href="danilosiqsil@gmail.com">
         <img 
             alt="Email"
